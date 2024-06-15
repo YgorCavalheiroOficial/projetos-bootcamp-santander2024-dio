@@ -1,5 +1,4 @@
 package br.com.dio.desafio.dominio;
-
 public abstract class Conteudo {
 
     protected static double XP_PADRAO = 10d;
